@@ -1,7 +1,7 @@
 ##!/usr/bin/perl -w
 
 #####################################################################
-#-this progrome is used to genotyping dominant and codomiant marker
+#-this progrome is used to call dominant and codomiant marker
 #####################################################################
 my $dep1=4;
 my $dep2=4; 
