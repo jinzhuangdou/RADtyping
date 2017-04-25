@@ -20,8 +20,7 @@ Authors:
 Jinzhuang Dou, Xiaoteng Fu, Xiaoyu Mu, Shi Wang  
 
 Created time: Monday, September 03, 2012   
-Version: V1.30   
-Email: thinkhighly@163.com  
+Version: V1.30    
 Key Laboratory of Marine Genetics and Breeding, College of Marine Life Sciences, Ocean University of China, 5 Yushan Road, Qingdao 266003, China    
  
 
